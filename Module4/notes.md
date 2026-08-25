@@ -1,0 +1,1 @@
+In this module I have learned the basics of managing a git repo. I have learned the difference between Git and Github. I have learned to make meaningful commits so that its easy to read for other engineers. 
